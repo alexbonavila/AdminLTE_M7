@@ -1,0 +1,12 @@
+{
+    "name": "alumne/practica2",
+    "authors": [
+        {
+            "name": "Alex Bonavila",
+            "email": "alexbonavila@iesebre.com"
+        }
+    ],
+    "require": {
+        "almasaeed2010/adminlte": "~2.0"
+    }
+}
